@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SAYLANI-WEBSITE/static/css/main.efdf1cd7.css",
+    "main.js": "/SAYLANI-WEBSITE/static/js/main.b9f92d90.js",
+    "static/js/787.c4da2d29.chunk.js": "/SAYLANI-WEBSITE/static/js/787.c4da2d29.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/SAYLANI-WEBSITE/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/say.png": "/SAYLANI-WEBSITE/static/media/say.958be783ba18bcb53110.png",
+    "static/media/remixicon.eot?t=1590207869815": "/SAYLANI-WEBSITE/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/SAYLANI-WEBSITE/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/SAYLANI-WEBSITE/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/SAYLANI-WEBSITE/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/about-us.png": "/SAYLANI-WEBSITE/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/SAYLANI-WEBSITE/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/ui-ux.png": "/SAYLANI-WEBSITE/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/graphics-design.png": "/SAYLANI-WEBSITE/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/pic.png": "/SAYLANI-WEBSITE/static/media/pic.22bf709605809177256c.png",
+    "index.html": "/SAYLANI-WEBSITE/index.html",
+    "main.efdf1cd7.css.map": "/SAYLANI-WEBSITE/static/css/main.efdf1cd7.css.map",
+    "main.b9f92d90.js.map": "/SAYLANI-WEBSITE/static/js/main.b9f92d90.js.map",
+    "787.c4da2d29.chunk.js.map": "/SAYLANI-WEBSITE/static/js/787.c4da2d29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efdf1cd7.css",
+    "static/js/main.b9f92d90.js"
+  ]
+}
